@@ -15,7 +15,7 @@ caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic
 
 +++
 
-The Academic framework enables you to easily create a beautifully simple personal or academic website using the [Hugo](https://gohugo.io) static site generator.
+Le Framework Academic vous permet  easily create a beautifully simple personal or academic website using the [Hugo](https://gohugo.io) static site generator.
 
 Key features:
 
