@@ -4,7 +4,7 @@ draft = false
 tags = ["jekyll"]
 title = "Migrate from Jekyll to Hugo"
 summary = """
-Learn how to migrate an existing website from Jekyll to Hugo.
+Apprendre comment migrer un site existant depuis Jekyll vers  Hugo.
 """
 math = false
 +++
